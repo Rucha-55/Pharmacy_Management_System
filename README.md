@@ -1,6 +1,4 @@
 # Pharmacy Management System
-Here’s a polished and detailed description you can use for your GitHub repository:
-
 ---
 ### Project Overview:
 The **Pharmacy Management System** is a web-based application developed using **PHP**, **JavaScript**, **Bootstrap**, and **CSS**. This project is designed to simplify the management of pharmacy operations, including customers, medicines, suppliers, purchases, and sales. The system provides a user-friendly interface that makes it easy to navigate and operate for users, especially the shop owner.
