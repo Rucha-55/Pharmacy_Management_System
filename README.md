@@ -42,7 +42,7 @@ To run the **Pharmacy Management System**, follow these steps:
    - Create a new database named **pharmacy**.
    - Go to the **Import** tab, browse for the `pharmacy.sql` file, and click **Go** to import the database.
 4. **Run the Application**:
-   - Open your browser and navigate to `http://localhost/Pharmacy-Management/`.
+   - Open your browser and navigate to `http://localhost/Pharmacy_Management_System/`.
    - Log in using the default credentials or register a new account.
 
 ---
@@ -57,10 +57,3 @@ To run the **Pharmacy Management System**, follow these steps:
 
 
 
----
-
-Feel free to customize or expand this project according to your requirements. Contributions are always welcome!
-
---- 
-
-Let me know if you'd like further refinements!
