@@ -2,6 +2,10 @@
     "name": "pharmacy-management-system",
     "description": "Pharmacy Management System",
     "require": {
+        "php": "^8.0",
+        "ext-mysqli": "*"
+    },
+    "engines": {
         "php": "^8.0"
     }
 }
